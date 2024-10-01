@@ -33,8 +33,8 @@ The system is designed as a RESTful API.
 Token-based access control using JWT.
 Unit Testing
 
-## postman collection , database.sql , .env files for project
-شففشسا[.env.zip](https://github.com/user-attachments/files/17212483/default.env.zip)
+## postman collection and .env files for project
+[.env.zip](https://github.com/user-attachments/files/17212483/default.env.zip)
 
 [Attendance System API.postman_collection.json](https://github.com/user-attachments/files/17212404/Attendance.System.API.postman_collection.json)
 
