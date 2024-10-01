@@ -1,6 +1,7 @@
 # Attendance System Backend - README
 
-Overview
+## Overview
+
 This project is a simple Attendance System backend built with Laravel. The system allows users to track their working hours by checking in and checking out multiple times per day. Users can also calculate their total hours worked within a specific date range and receive a monthly summary notification of their hours worked.
 
 The project implements the following key functionalities:
