@@ -32,3 +32,5 @@ API-based Architecture
 The system is designed as a RESTful API.
 Token-based access control using JWT.
 Unit Testing
+[Attendance System API.postman_collection.json](https://github.com/user-attachments/files/17212404/Attendance.System.API.postman_collection.json)
+
