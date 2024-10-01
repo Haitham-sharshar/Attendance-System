@@ -11,7 +11,8 @@ Check-in and Check-out for attendance with timestamps.
 Total hours calculation between check-in and check-out times.
 Monthly summary notification sent to users on the 1st of every month.
 Unit Testing to ensure that key functionalities work as expected.
-Features
+
+## Features
 User Authentication
 
 Users can register and log in using their email and password.
